@@ -27,6 +27,7 @@ module.exports = {
       },
     ],
   },
+  pathPrefix: "/gatsby-serif-gatsby-cloud",
   plugins: [
     'gatsby-plugin-sass',
     'gatsby-transformer-json',
