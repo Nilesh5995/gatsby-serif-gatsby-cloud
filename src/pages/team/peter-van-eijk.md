@@ -1,13 +1,11 @@
 ---
-path: '/team/peter-van-eijk'
-title: 'Peter Van Eijk'
-date: 2018-11-19T10:47:58+10:00
-draft: false
-image: '/team/peter-van-eijk-711986-unsplash.jpg'
-jobtitle: 'Director'
-email: 'peter@test.com'
-linkedinurl: 'www.linkedin.com/pvanijk'
-weight: 1
+path: /team/peter-van-eijk
+title: nil
+date: 2018-11-19T00:47:58.000Z
+image: /team/peter-van-eijk-711986-unsplash.jpg
+jobtitle: Director
+linkedinurl: 'https://google.com'
+weight: '1'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
